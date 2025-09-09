@@ -3,6 +3,8 @@
 
 This R script generates a publication-ready plot of **Delta K vs K** to help determine the optimal number of clusters in population structure analyses. It uses `ggplot2` to create a clean, customizable plot and saves it as a high-resolution JPEG.
 
+> **Note:** The script uses **demo/sample data** for demonstration purposes.
+
 ## Features
 - Plot Delta K values across cluster numbers (K = 1–10)
 - Publication-ready visualization with customizable aesthetics
